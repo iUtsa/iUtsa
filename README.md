@@ -47,6 +47,6 @@ Welcome to my GitHub repository! I am Arnab Das Utsa, a Computer Science student
 ## Contact
 
 - **Email**: utsaa@go.stockton.edu
-- **LinkedIn**: [LinkedIn Profile](#)
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/)](#)
 
 Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
