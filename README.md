@@ -9,10 +9,9 @@ Welcome to my GitHub repository! I am Arnab Das Utsa, a Computer Science student
 ## Education
 
 - **Stockton University, Galloway, NJ**
-  - Bachelor of Science in Computer Science (Sept 2022 – Expected May 2026)
+  - Bachelor of Science in Computer Science
+  - (Sept 2022 – Expected Dec 2025)
   
-- **Harvard University, Boston, MA**
-  - Hack Harvard 2023, Winner for Best API Integration
 
 ## Skills
 
