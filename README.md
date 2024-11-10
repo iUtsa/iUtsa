@@ -48,12 +48,12 @@ Welcome to my GitHub repository! I am Arnab Das Utsa, a Computer Science student
   - _**Technologies**: JavaScript, TypeScript, Python, HTML5_  
   - 🏆 **Achievements**: Winner, Hack Harvard 2023 for Best API Integration
 
-### 💅 [Jack and Son Nails Spa](https://github.com/iUtsa/Jack_and_Son_Nails_Spa)
+### 💅 [Jack and Son Nails Spa](https://github.com/iUtsa/Jack-and-Son-Nail-Salon-fullstack)
 - **Description**: A web application for managing scheduling, employee shifts, and client bookings at a salon.
   - _**Technologies**: React, Flask, MongoDB_
   - **Features**: Employee management, shift scheduling, time slot management, and a user-friendly interface for scheduling.
 
-### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/Dementia_Terminology_Dictionary)
+### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/dementia-terminology-dictionary)
 - **Description**: A web resource for understanding dementia-related terms, providing definitions and a navigation system for ease of use.
   - _**Technologies**: HTML5, CSS3, JavaScript_
   - **Features**: A-Z navigation, search functionality, and easy-to-access information on dementia terminology.
