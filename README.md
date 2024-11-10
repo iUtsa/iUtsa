@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-# ![iUtsa Logo](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-coding-education-and-school-flaticons-lineal-color-flat-icons.png) iUtsa
+# ![iUtsa Logo]([https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-coding-education-and-school-flaticons-lineal-color-flat-icons.png](https://icons8.com/icon/80976/boy)) iUtsa
 
 ### ![Developer](https://img.icons8.com/color/48/000000/developer.png) Arnab Das Utsa
 
 Welcome to my GitHub repository! I am Arnab Das Utsa, a Computer Science student at **Stockton University** with a passion for software development, machine learning, and API integration.
+
+🌐 **Visit my website**: [iUtsa](https://iutsa.vercel.app)
 
 ---
 
@@ -18,10 +20,22 @@ Welcome to my GitHub repository! I am Arnab Das Utsa, a Computer Science student
 ## 🛠 Skills
 
 - **Programming Languages**  
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" style="animation: spin 2s linear infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" style="animation: spin 2s linear infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="animation: spin 2s linear infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" style="animation: spin 2s linear infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="animation: spin 2s linear infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" style="animation: spin 2s linear infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="animation: spin 2s linear infinite;" />
 
 - **Technologies**  
-  ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="animation: bounce 2s infinite;" />
+  <img src="https://img.icons8.com/ios-filled/48/000000/flask.png" alt="Flask" style="animation: bounce 2s infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="animation: bounce 2s infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="animation: bounce 2s infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" style="animation: bounce 2s infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="animation: bounce 2s infinite;" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" style="animation: bounce 2s infinite;" />
 
 - **Concepts**: Object-Oriented Programming, MVVM, MVC, Mobile Development, Web Applications, Machine Learning, API Integration, Database Systems, Augmented Reality
 
@@ -58,10 +72,18 @@ Welcome to my GitHub repository! I am Arnab Das Utsa, a Computer Science student
 
 ---
 
+## 📊 GitHub Activity
+![Arnab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iUtsa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iUtsa&layout=compact&theme=radical)
+
+---
+
 ## 📬 Contact
 
 - 📧 **Email**: utsaa@go.stockton.edu  
 - 💼 **LinkedIn**: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/)
+- 🌐 **Website**: [iUtsa](https://iutsa.vercel.app)
 
 Feel free to explore my projects and reach out if you have any questions or collaboration opportunities! 🙌
 
@@ -72,3 +94,15 @@ Feel free to explore my projects and reach out if you have any questions or coll
   <img src="https://img.shields.io/badge/API-Integration-green?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<style>
+  /* CSS Animations for Icons */
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
