@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# ![iUtsa Logo]([https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-coding-education-and-school-flaticons-lineal-color-flat-icons.png](https://icons8.com/icon/80976/boy)) iUtsa
+I AM ARNAB!!!!!
 
 ### ![Developer](https://img.icons8.com/color/48/000000/developer.png) Arnab Das Utsa
 
@@ -48,9 +48,15 @@ Welcome to my GitHub repository! I am Arnab Das Utsa, a Computer Science student
   - _**Technologies**: JavaScript, TypeScript, Python, HTML5_  
   - 🏆 **Achievements**: Winner, Hack Harvard 2023 for Best API Integration
 
-### 🦷 [Dental Appointment System](https://github.com/iUtsa/Dental_Appointment_System)
-- **Description**: An efficient appointment system, saving 40% more time than traditional systems  
-  - _**Technologies**: Object-Oriented Programming, Agile Development_
+### 💅 [Jack and Son Nails Spa](https://github.com/iUtsa/Jack_and_Son_Nails_Spa)
+- **Description**: A web application for managing scheduling, employee shifts, and client bookings at a salon.
+  - _**Technologies**: React, Flask, MongoDB_
+  - **Features**: Employee management, shift scheduling, time slot management, and a user-friendly interface for scheduling.
+
+### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/Dementia_Terminology_Dictionary)
+- **Description**: A web resource for understanding dementia-related terms, providing definitions and a navigation system for ease of use.
+  - _**Technologies**: HTML5, CSS3, JavaScript_
+  - **Features**: A-Z navigation, search functionality, and easy-to-access information on dementia terminology.
 
 ---
 
@@ -94,15 +100,3 @@ Feel free to explore my projects and reach out if you have any questions or coll
   <img src="https://img.shields.io/badge/API-Integration-green?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-<style>
-  /* CSS Animations for Icons */
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-</style>
