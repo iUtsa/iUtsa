@@ -48,7 +48,7 @@ My name is Arnab Das Utsa, a passionate computer science student at Stockton Uni
   - _**Technologies**: JavaScript, TypeScript, Python, HTML5_  
   - 🏆 **Achievements**: Winner, Hack Harvard 2023 for Best API Integration
 
-### 💅 [Jack and Son Nails Spa](https://github.com/iUtsa/Jack-and-Son-Nail-Salon-fullstack)
+### 💅 [SalonManagerPro](https://github.com/iUtsa/SalonManagerPro_fullstack)
 - **Description**: A web application for managing scheduling, employee shifts, and client bookings at a salon.
   - _**Technologies**: React, Flask, MongoDB_
   - **Features**: Employee management, shift scheduling, time slot management, and a user-friendly interface for scheduling.
