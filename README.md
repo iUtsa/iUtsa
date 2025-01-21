@@ -50,7 +50,7 @@ My name is Arnab Das Utsa, a passionate computer science student at Stockton Uni
 
 ### 💅 [SalonManagerPro](https://github.com/iUtsa/SalonManagerPro_fullstack)
 - **Description**: A web application for managing scheduling, employee shifts, and client bookings at a salon.
-  - _**Technologies**: React, Flask, MongoDB_
+  - _**Technologies**: HTML5, CSS3, JavaScript,Python, Bootstrap, Flask, MySQL_
   - **Features**: Employee management, shift scheduling, time slot management, and a user-friendly interface for scheduling.
 
 ### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/dementia-terminology-dictionary)
