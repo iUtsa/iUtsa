@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I AM ARNAB!!!!!
+
 
 ### ![Developer](https://img.icons8.com/color/48/000000/developer.png) Arnab Das Utsa
 
