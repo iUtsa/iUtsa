@@ -2,9 +2,9 @@
 
 
 
-### ![Developer](https://img.icons8.com/color/48/000000/developer.png) Arnab Das Utsa
+### ![Developer](https://img.icons8.com/color/48/000000/developer.png) I am Arnab Das Utsa
 
-My name is Arnab Das Utsa, a passionate computer science student at Stockton University with a strong interest in technology and innovation. I enjoy developing software applications, exploring web development, and working on creative projects. Outside of academics, I am involved in student organizations, community service, and research. In my free time, I love playing musical instruments, capturing moments through photography, and traveling to discover new places.
+ a passionate computer science student at Stockton University with a strong interest in technology and innovation. I enjoy developing software applications, exploring web development, and working on creative projects. Outside of academics, I am involved in student organizations, community service, and research. In my free time, I love playing musical instruments, capturing moments through photography, and traveling to discover new places.
 
 🌐 **Visit my website**: [iUtsa](https://iutsa.vercel.app)
 
