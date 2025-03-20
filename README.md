@@ -32,12 +32,6 @@ Beyond coding, I engage in **research, tutoring, student leadership, and communi
 
 ---
 
-## 🏃‍♂️ JavaScript Animations & Effects
-
-To make this README more **dynamic**, we added:
-- 🚀 **Floating effect** on the profile picture.
-- ✨ **Button hover animations** for a smooth user experience.
-
 ---
 
 ## 📊 GitHub Stats
