@@ -17,7 +17,11 @@
 </p>
 
 ---
-## BUY ME A COFFEE : [BuyME_a_Coffee](buymeacoffee.com/iutsa)
+## ☕ BUY ME A COFFEE  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Coding-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/iutsa)
+
+or visit: [buymeacoffee.com/iutsa](https://buymeacoffee.com/iutsa)
+
 ---
 
 ## 👨‍💻 About Me  
