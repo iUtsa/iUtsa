@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iUtsa/Project-1-Stats/blob/main/Stats-Library/Results/8EFD2ECE-1977-493A-97C3-2B6B9EB6B6DD.png?raw=true" width="150" height="150">
+  <img src="https://github.com/iUtsa/Project-1-Stats/blob/main/Stats-Library/Results/8EFD2ECE-1977-493A-97C3-2B6B9EB6B6DD.png?raw=true" width="150" height=auto>
 </p>
 
 <h1 align="center">Hi, I'm Arnab Das Utsa 👋</h1>
