@@ -1,103 +1,136 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/iUtsa/Project-1-Stats/blob/main/Stats-Library/Results/8EFD2ECE-1977-493A-97C3-2B6B9EB6B6DD.png?raw=true" width="150" height="150">
+</p>
 
-
-
-### ![Developer](https://github.com/iUtsa/Project-1-Stats/blob/main/Stats-Library/Results/8EFD2ECE-1977-493A-97C3-2B6B9EB6B6DD.png?raw=true) I am Arnab Das Utsa
-
- a passionate computer science student at Stockton University with a strong interest in technology and innovation. I enjoy developing software applications, exploring web development, and working on creative projects. Outside of academics, I am involved in student organizations, community service, and research. In my free time, I love playing musical instruments, capturing moments through photography, and traveling to discover new places.
-
-🌐 **Visit my website**: [iUtsa](https://iutsa.vercel.app)
-
----
-## BUY ME A COFFEE TO FUEL ME UP : [BuyMe_a_Coffee](buymeacoffee.com/iutsa)
----
-## 🎓 Education
-- **Stockton University, Galloway, NJ**
-  - Bachelor of Science in Computer Science
-  - _(Sept 2022 – Expected Dec 2025)_
-
----
-
-## 🛠 Skills
-
-- **Programming Languages**  
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" style="animation: spin 2s linear infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" style="animation: spin 2s linear infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="animation: spin 2s linear infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" style="animation: spin 2s linear infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="animation: spin 2s linear infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" style="animation: spin 2s linear infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="animation: spin 2s linear infinite;" />
-
-- **Technologies**  
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="animation: bounce 2s infinite;" />
-  <img src="https://img.icons8.com/ios-filled/48/000000/flask.png" alt="Flask" style="animation: bounce 2s infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="animation: bounce 2s infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="animation: bounce 2s infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" style="animation: bounce 2s infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="animation: bounce 2s infinite;" />
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" style="animation: bounce 2s infinite;" />
-
-- **Concepts**: Object-Oriented Programming, MVVM, MVC, Mobile Development, Web Applications, Machine Learning, API Integration, Database Systems, Augmented Reality
-
----
-
-## 🚀 Projects
-
-### 🗓️ [EdithGPT](https://devpost.com/software/edith-brshpa)
-- **Description**: Next-gen AI Calendar developed at HackHarvard  
-  - _**Technologies**: JavaScript, TypeScript, Python, HTML5_  
-  - 🏆 **Achievements**: Winner, Hack Harvard 2023 for Best API Integration
-
-### 💅 [StorePro](https://github.com/iUtsa/SalonManagerPro_fullstack)
-- **Description**: A web application for managing scheduling, employee shifts, and client bookings at a salon.
-  - _**Technologies**: HTML5, CSS3, JavaScript,Python, Bootstrap, Flask, MySQL_
-  - **Features**: Employee management, shift scheduling, time slot management, and a user-friendly interface for scheduling.
-
-### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/dementia-terminology-dictionary)
-- **Description**: A web resource for understanding dementia-related terms, providing definitions and a navigation system for ease of use.
-  - _**Technologies**: HTML5, CSS3, JavaScript_
-  - **Features**: A-Z navigation, search functionality, and easy-to-access information on dementia terminology.
-
----
-
-## 💼 Experience
-
-- **Student Tutor**, Stockton University _(Sept 2022 - Present)_  
-  ![Teaching](https://img.icons8.com/color/48/000000/teacher.png)  
-  - Taught Object-Oriented Programming, Data Structure, and Algorithm with Java, Python  
-  - Conducted classes in Calculus, Quantitative Reasoning, Basic Mathematics  
-  - Prepared students for Olympiads and programming contests  
-
----
-
-## 🏅 Achievements
-
-- **Hack Harvard 2023**: Winner, Best API Integration  
-- **Trackthon 2020**: Top 10 Finalist, BRAC University, Dhaka, Bangladesh  
-- **National High School Programming Contest 2017**: Top 20 Finalist, Bangladesh  
-
----
-
-## 📊 GitHub Activity
-![Arnab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iUtsa&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iUtsa&layout=compact&theme=radical)
-
----
-
-## 📬 Contact
-
-- 📧 **Email**: utsaa@go.stockton.edu  
-- 💼 **LinkedIn**: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/)
-- 🌐 **Website**: [iUtsa](https://iutsa.vercel.app)
-
-Feel free to explore my projects and reach out if you have any questions or collaboration opportunities! 🙌
-
----
+<h1 align="center">Hi, I'm Arnab Das Utsa 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Dynamic-blue?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Integration-green?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge&logo=github&logoColor=white" />
+  🎓 Computer Science Student | 💻 AI & ML Enthusiast | 🚀 Software Developer  
 </p>
+
+<p align="center">
+  <a href="https://iutsa.vercel.app"><img src="https://img.shields.io/badge/Website-iUtsa-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/iUtsa"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/iutsa"><img src="https://img.shields.io/badge/BuyMeACoffee-Fuel_My_Coding-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+I am a **passionate computer science student** at **Stockton University** with a deep love for **software development, AI/ML, and innovative technology**. I enjoy working on **web and mobile applications, exploring cloud computing**, and contributing to **open-source projects**.  
+
+Beyond coding, I engage in **research, tutoring, student leadership, and community service**. I also enjoy **playing musical instruments, photography, and traveling**.
+
+---
+
+<details>
+  <summary><h2>🎓 Education</h2></summary>
+  
+  - **Stockton University, Galloway, NJ**
+    - **Bachelor of Science in Computer Science** _(Sept 2022 – Expected Dec 2025)_
+</details>
+
+---
+
+<details>
+  <summary><h2>🛠 Skills & Technologies</h2></summary>
+
+### **Languages**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+</p>
+
+### **Frameworks & Technologies**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+</p>
+
+### **Key Concepts**
+- Object-Oriented Programming
+- MVVM & MVC Architecture
+- Web & Mobile Development
+- Machine Learning & AI
+- API Integration
+- Database Systems
+</details>
+
+---
+
+<details>
+  <summary><h2>🚀 Projects</h2></summary>
+
+### 🗓️ [EdithGPT](https://devpost.com/software/edith-brshpa)
+- **AI-powered Calendar Assistant**  
+- **Tech Stack**: JavaScript, TypeScript, Python, HTML5  
+- 🏆 **Winner, Hack Harvard 2023 (Best API Integration)**  
+
+### 💅 [StorePro](https://github.com/iUtsa/SalonManagerPro_fullstack)
+- **Salon Scheduling & Employee Management App**  
+- **Tech Stack**: HTML5, CSS3, JavaScript, Flask, MySQL  
+
+### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/dementia-terminology-dictionary)
+- **Web Resource for Dementia-Related Terms**  
+- **Tech Stack**: HTML5, CSS3, JavaScript  
+</details>
+
+---
+
+<details>
+  <summary><h2>💼 Experience</h2></summary>
+
+### **Student Tutor**, Stockton University _(Sept 2022 - Present)_
+![Teaching](https://img.icons8.com/color/48/000000/teacher.png)  
+- Taught **OOP, Data Structures, and Algorithms** in **Java, Python**
+- Assisted students in **Calculus, Quantitative Reasoning, Basic Math**
+- Conducted workshops for **Olympiads & Programming Contests**
+</details>
+
+---
+
+<details>
+  <summary><h2>🏅 Achievements</h2></summary>
+
+- 🏆 **Hack Harvard 2023**: Winner, Best API Integration  
+- 🏆 **Trackthon 2020**: Top 10 Finalist, BRAC University, Dhaka  
+- 🏆 **National High School Programming Contest 2017**: Top 20 Finalist, Bangladesh  
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iUtsa&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iUtsa&layout=compact&theme=radical" width="40%">
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.shields.io/badge/Email-utsaa@go.stockton.edu-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://iutsa.vercel.app"><img src="https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/iutsa"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Coding-yellow?style=for-the-badge&logo=buy-me-a-coffee"></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** 😊  
+🚀 **Let’s build and innovate together!**
