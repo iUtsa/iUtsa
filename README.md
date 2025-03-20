@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iUtsa/Project-1-Stats/blob/main/Stats-Library/Results/8EFD2ECE-1977-493A-97C3-2B6B9EB6B6DD.png?raw=true" width="150" height=auto>
+  <img id="profile-pic" src="https://github.com/iUtsa/Project-1-Stats/blob/main/Stats-Library/Results/8EFD2ECE-1977-493A-97C3-2B6B9EB6B6DD.png?raw=true" width="150" height="auto">
 </p>
 
 <h1 align="center">Hi, I'm Arnab Das Utsa 👋</h1>
@@ -26,89 +26,11 @@ Beyond coding, I engage in **research, tutoring, student leadership, and communi
 
 ---
 
-<details>
-  <summary><h2>🎓 Education</h2></summary>
-  
-  - **Stockton University, Galloway, NJ**
-    - **Bachelor of Science in Computer Science** _(Sept 2022 – Expected Dec 2025)_
-</details>
+## 🏃‍♂️ JavaScript Animations & Effects
 
----
-
-<details>
-  <summary><h2>🛠 Skills & Technologies</h2></summary>
-
-### **Languages**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-</p>
-
-### **Frameworks & Technologies**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/flask.png" alt="Flask"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
-</p>
-
-### **Key Concepts**
-- Object-Oriented Programming
-- MVVM & MVC Architecture
-- Web & Mobile Development
-- Machine Learning & AI
-- API Integration
-- Database Systems
-</details>
-
----
-
-<details>
-  <summary><h2>🚀 Projects</h2></summary>
-
-### 🗓️ [EdithGPT](https://devpost.com/software/edith-brshpa)
-- **AI-powered Calendar Assistant**  
-- **Tech Stack**: JavaScript, TypeScript, Python, HTML5  
-- 🏆 **Winner, Hack Harvard 2023 (Best API Integration)**  
-
-### 💅 [StorePro](https://github.com/iUtsa/SalonManagerPro_fullstack)
-- **Salon Scheduling & Employee Management App**  
-- **Tech Stack**: HTML5, CSS3, JavaScript, Flask, MySQL  
-
-### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/dementia-terminology-dictionary)
-- **Web Resource for Dementia-Related Terms**  
-- **Tech Stack**: HTML5, CSS3, JavaScript  
-</details>
-
----
-
-<details>
-  <summary><h2>💼 Experience</h2></summary>
-
-### **Student Tutor**, Stockton University _(Sept 2022 - Present)_
-![Teaching](https://img.icons8.com/color/48/000000/teacher.png)  
-- Taught **OOP, Data Structures, and Algorithms** in **Java, Python**
-- Assisted students in **Calculus, Quantitative Reasoning, Basic Math**
-- Conducted workshops for **Olympiads & Programming Contests**
-</details>
-
----
-
-<details>
-  <summary><h2>🏅 Achievements</h2></summary>
-
-- 🏆 **Hack Harvard 2023**: Winner, Best API Integration  
-- 🏆 **Trackthon 2020**: Top 10 Finalist, BRAC University, Dhaka  
-- 🏆 **National High School Programming Contest 2017**: Top 20 Finalist, Bangladesh  
-</details>
+To make this README more **dynamic**, we added:
+- 🚀 **Floating effect** on the profile picture.
+- ✨ **Button hover animations** for a smooth user experience.
 
 ---
 
@@ -134,3 +56,35 @@ Beyond coding, I engage in **research, tutoring, student leadership, and communi
 
 ⭐ **If you like my work, consider giving my repositories a star!** 😊  
 🚀 **Let’s build and innovate together!**
+
+---
+
+## 🎨 JavaScript Effects  
+
+To add **interactive movement**, include this in your website version of the README:
+
+```javascript
+// Floating effect for profile image
+document.addEventListener("DOMContentLoaded", function () {
+    let profilePic = document.getElementById("profile-pic");
+    let direction = 1;
+    let position = 0;
+
+    setInterval(() => {
+        if (position >= 10) direction = -1;
+        if (position <= -10) direction = 1;
+        position += direction;
+        profilePic.style.transform = `translateY(${position}px)`;
+    }, 50);
+});
+
+// Smooth hover effect for badges
+document.querySelectorAll("a img").forEach((img) => {
+    img.addEventListener("mouseover", () => {
+        img.style.transform = "scale(1.1)";
+        img.style.transition = "transform 0.2s";
+    });
+    img.addEventListener("mouseleave", () => {
+        img.style.transform = "scale(1)";
+    });
+});
