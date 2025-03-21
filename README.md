@@ -32,6 +32,8 @@
   </a>
 </p>
 
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"> </p>
+
 <hr style="border: 1px solid #ccc;">
 
 <details>
@@ -45,15 +47,6 @@
     <li>🧑‍🏫 Student Tutor, Peer Mentor, and Tech Assistant</li>
     <li>🎨 I enjoy photography, traveling, and music in my downtime</li>
   </ul>
-</details>
-
-<hr>
-
-<details>
-  <summary><h2 style="cursor: pointer; color: #3F51B5;">🚀 Tech Stack & Tools</h2></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,react,flask,spring,git,github,mongodb,firebase" />
-  </p>
 </details>
 
 <hr>
