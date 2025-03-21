@@ -52,7 +52,7 @@
 <details>
   <summary><h2 style="cursor: pointer; color: #3F51B5;">🚀 Tech Stack & Tools</h2></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,sql,react,flask,spring,git,github,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,react,flask,spring,git,github,mongodb,firebase" />
   </p>
 </details>
 
