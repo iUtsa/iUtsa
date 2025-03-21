@@ -44,17 +44,15 @@ I am a passionate **Computer Science student** at **Stockton University** explor
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" /><br>JS</td>
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" /><br>HTML</td>
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" /><br>CSS</td>
-    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQL.svg" width="45" /><br>SQL</td>
+    <td align="center"><img src="https://img.icons8.com/?size=52&id=3764&format=png" width="45" /><br>SQL</td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="45" /><br>React</td>
-    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask.svg" width="45" /><br>Flask</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png" width="45" /><br>Flask</td>
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="45" /><br>Spring</td>
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" /><br>Git</td>
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="45" /><br>GitHub</td>
     <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" /><br>MongoDB</td>
-    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase.svg" width="45" /><br>Firebase</td>
-  </tr>
 </table>
 
 ---
