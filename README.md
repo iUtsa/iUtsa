@@ -108,7 +108,7 @@
   <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" /></a>
   <a href="https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
   <a href="https://iutsa.vercel.app"><img src="https://img.icons8.com/ios-filled/50/domain.png" width="40" /></a>
-  <a href="https://buymeacoffee.com/iutsa"><img src="https://img.shields.io/badge/BuyMeACoffee-Fuel_My_Coding-orange?style=for-the-badge&logo=buy-me-a-coffee" width="40" /></a>
+  <a href="https://buymeacoffee.com/iutsa"><img src="https://img.icons8.com/?size=96&id=12860&format=png" width="40" /></a>
 </p>
 
 <hr>
