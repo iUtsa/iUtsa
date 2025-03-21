@@ -1,156 +1,94 @@
+<!-- Profile Image -->
 <p align="center">
   <img id="profile-pic" src="https://github.com/iUtsa/Project-1-Stats/blob/main/Stats-Library/Results/8EFD2ECE-1977-493A-97C3-2B6B9EB6B6DD.png?raw=true" width="150" height="auto">
 </p>
 
-<h1 align="center">Hi, I'm Arnab Das Utsa 👋</h1>
+<h1 align="center">Hello World! I'm Arnab Das Utsa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" /></h1>
 
+<!-- Typing Effect -->
 <p align="center">
-  🎓 Computer Science Student | 💻 AI & ML Enthusiast | 🚀 Software Developer  
-</p>
-
-<p align="center">
-  <a href="https://iutsa.vercel.app"><img src="https://img.shields.io/badge/Website-iUtsa-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/iUtsa"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://buymeacoffee.com/iutsa"><img src="https://img.shields.io/badge/BuyMeACoffee-Fuel_My_Coding-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>
-</p>
-
----
-## ☕ BUY ME A COFFEE  
-
-<p align="center">
-  <a href="https://buymeacoffee.com/iutsa">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Coding-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&width=500&lines=👨‍💻+CS+Student+at+Stockton+University;💡+AI+%26+ML+Enthusiast;📱+Full-Stack+Developer;🎸+Musician+%7C+Photographer+%7C+Traveler;📈+Open+Source+%7C+Research+%7C+Hackathon+Lover" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  👉 Visit: <a href="https://buymeacoffee.com/iutsa">buymeacoffee.com/iutsa</a>
-</p>
-
-
----
-
-## 👨‍💻 About Me  
-
-I am a **passionate computer science student** at **Stockton University** with a deep love for **software development, AI/ML, and innovative technology**. I enjoy working on **web and mobile applications, exploring cloud computing**, and contributing to **open-source projects**.  
-
-Beyond coding, I engage in **research, tutoring, student leadership, and community service**. I also enjoy **playing musical instruments, photography, and traveling**.
-
----
-<p align="center">
-  🎓 Computer Science Student | 💻 AI & ML Enthusiast | 🚀 Software Developer  
-</p>
-
+<!-- Social & Contact Buttons -->
 <p align="center">
   <a href="https://iutsa.vercel.app"><img src="https://img.shields.io/badge/Website-iUtsa-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/iUtsa"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.shields.io/badge/Email-utsaa@go.stockton.edu-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://buymeacoffee.com/iutsa"><img src="https://img.shields.io/badge/BuyMeACoffee-Fuel_My_Coding-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧠 About Me
 
-I am a **passionate computer science student** at **Stockton University** with a deep love for **software development, AI/ML, and innovative technology**. I enjoy working on **web and mobile applications, exploring cloud computing**, and contributing to **open-source projects**.  
+I am a passionate **Computer Science student** at **Stockton University** exploring the worlds of **software development, machine learning**, and **creative innovation**. I love building apps that solve real problems, contribute to communities, and express creativity.
 
-Beyond coding, I engage in **research, tutoring, student leadership, and community service**. I also enjoy **playing musical instruments, photography, and traveling**.
-
----
-
-<details>
-  <summary><h2>🎓 Education</h2></summary>
-  
-  - **Stockton University, Galloway, NJ**
-    - **Bachelor of Science in Computer Science** _(Sept 2022 – Expected Dec 2025)_
-</details>
+- 🏆 Hack Harvard Winner (Best API Integration)
+- 🧠 Researcher at HEART Lab (AI + SNOMED CT)
+- 🧑‍🏫 Student Tutor, Peer Mentor, and Tech Assistant
+- 🎨 I enjoy photography, traveling, and music in my downtime
 
 ---
 
-<details>
-  <summary><h2>🛠 Skills & Technologies</h2></summary>
+## 🚀 Tech Stack & Tools
 
-### **Languages**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-</p>
-
-### **Frameworks & Technologies**
-<p>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/flask.png" alt="Flask"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
-</p>
-
-### **Key Concepts**
-- Object-Oriented Programming
-- MVVM & MVC Architecture
-- Web & Mobile Development
-- Machine Learning & AI
-- API Integration
-- Database Systems
-</details>
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="45" /><br>Java</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="45" /><br>Python</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="45" /><br>C++</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" /><br>JS</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" /><br>HTML</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" /><br>CSS</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQL.svg" width="45" /><br>SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="45" /><br>React</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask.svg" width="45" /><br>Flask</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="45" /><br>Spring</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" /><br>Git</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="45" /><br>GitHub</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" /><br>MongoDB</td>
+    <td align="center"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase.svg" width="45" /><br>Firebase</td>
+  </tr>
+</table>
 
 ---
 
-<details>
-  <summary><h2>🚀 Projects</h2></summary>
+## 🏗 Projects
 
-### 🗓️ [EdithGPT](https://devpost.com/software/edith-brshpa)
-- **AI-powered Calendar Assistant**  
-- **Tech Stack**: JavaScript, TypeScript, Python, HTML5  
-- 🏆 **Winner, Hack Harvard 2023 (Best API Integration)**  
-
-### 💅 [StorePro](https://github.com/iUtsa/SalonManagerPro_fullstack)
-- **Salon Scheduling & Employee Management App**  
-- **Tech Stack**: HTML5, CSS3, JavaScript, Flask, MySQL  
-
-### 🧠 [Dementia Terminology Dictionary](https://github.com/iUtsa/dementia-terminology-dictionary)
-- **Web Resource for Dementia-Related Terms**  
-- **Tech Stack**: HTML5, CSS3, JavaScript  
-</details>
+| Name | Description | Tech Stack |
+|------|-------------|------------|
+| [🎯 EdithGPT](https://devpost.com/software/edith-brshpa) | AI-powered calendar & assistant | JS, TypeScript, Python |
+| [💅 StorePro](https://github.com/iUtsa/SalonManagerPro_fullstack) | Scheduling app for salons | Flask, JS, MySQL |
+| [🧠 Dementia Dictionary](https://github.com/iUtsa/dementia-terminology-dictionary) | Terminology guide for dementia care | HTML, CSS, JS |
 
 ---
 
-<details>
-  <summary><h2>💼 Experience</h2></summary>
+## 🏆 Achievements
 
-### **Student Tutor**, Stockton University _(Sept 2022 - Present)_
-![Teaching](https://img.icons8.com/color/48/000000/teacher.png)  
-- Taught **OOP, Data Structures, and Algorithms** in **Java, Python**
-- Assisted students in **Calculus, Quantitative Reasoning, Basic Math**
-- Conducted workshops for **Olympiads & Programming Contests**
-</details>
+- 🥇 **Hack Harvard 2023** – Best API Integration  
+- 🏅 **Trackthon 2020** – Top 10 Finalist  
+- 🥈 **NHSPC 2017** – Top 20 Nationwide (Bangladesh)
 
 ---
 
-<details>
-  <summary><h2>🏅 Achievements</h2></summary>
+## 📚 Education
 
-- 🏆 **Hack Harvard 2023**: Winner, Best API Integration  
-- 🏆 **Trackthon 2020**: Top 10 Finalist, BRAC University, Dhaka  
-- 🏆 **National High School Programming Contest 2017**: Top 20 Finalist, Bangladesh  
-</details>
+- 🎓 **B.Sc. in Computer Science**  
+  **Stockton University**, Galloway, NJ  
+  _(Sept 2022 – Dec 2025 Expected)_
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iUtsa&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=iUtsa&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iUtsa&layout=compact&theme=radical" width="40%">
 </p>
 
@@ -159,16 +97,21 @@ Beyond coding, I engage in **research, tutoring, student leadership, and communi
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.shields.io/badge/Email-utsaa@go.stockton.edu-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://iutsa.vercel.app"><img src="https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
-  <a href="https://buymeacoffee.com/iutsa"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Coding-yellow?style=for-the-badge&logo=buy-me-a-coffee"></a>
+  <a href="mailto:utsaa@go.stockton.edu"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/arnab-das-utsa-0b57a81a4/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
+  <a href="https://iutsa.vercel.app"><img src="https://img.icons8.com/ios-filled/50/domain.png" width="40" /></a>
+  <a href="https://buymeacoffee.com/iutsa"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-buy-me-a-coffee-a-platform-for-creators-to-accept-supporting-membership-subscriptions-logo-color-tal-revivo.png" width="40" /></a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** 😊  
-🚀 **Let’s build and innovate together!**
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-Active-blue?style=for-the-badge&logo=codewars" />
+  <img src="https://img.shields.io/badge/Musician-Hobbyist-orange?style=for-the-badge&logo=spotify" />
+</p>
 
 ---
+
+⭐ If you like my work, consider giving it a ⭐ and let's connect for future collaborations!
 
