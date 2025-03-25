@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hello World! I'm Arnab Das Utsa 
+  Hello World! <br>I'm Arnab Das Utsa 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" />
 </h1>
 
